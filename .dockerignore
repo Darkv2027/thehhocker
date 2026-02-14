@@ -1,0 +1,6 @@
+.git
+.env
+storage/*.key
+# vendor  <-- Removido/Comentado para subir junto
+# node_modules <-- Removido/Comentado para subir junto
+public/hot
